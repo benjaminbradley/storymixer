@@ -1,3 +1,26 @@
+body {
+  font-size: 3em;
+}
+
+button {
+  font-size: 1em;
+  padding: 0.5em 1em;
+  margin: 0.5em;
+}
+
+.curStory {
+  padding: 1em;
+  border: 1px solid #00d;
+}
+
+.pastStories {
+  font-size: 0.8em;
+}
+
+h1 {
+  margin: 0;
+}
+
 .App {
   text-align: center;
 }
